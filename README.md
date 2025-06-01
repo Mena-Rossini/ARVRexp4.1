@@ -131,7 +131,8 @@ public class MoveForward : MonoBehaviour
 ```
 ## OUTPUT :
 
-![Uploading 4.2.png…]()
+![4 2](https://github.com/user-attachments/assets/7769f4c0-2a07-49cd-977b-7aad416c8b43)
+
 
 ## RESULT :
 
