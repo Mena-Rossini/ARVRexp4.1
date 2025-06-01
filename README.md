@@ -131,8 +131,7 @@ public class MoveForward : MonoBehaviour
 ```
 ## OUTPUT :
 
-![alt text](image.png)
-
+![Uploading 4.2.png…]()
 
 ## RESULT :
 
